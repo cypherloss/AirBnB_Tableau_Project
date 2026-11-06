@@ -72,3 +72,6 @@ This project was designed to:
 ## Summary
 
 This project demonstrates practical Tableau analytics for a real-world hospitality dataset, combining descriptive and comparative visualizations to uncover price and revenue patterns in the Airbnb market. It is suitable for portfolio presentation, business reporting, and data storytelling.
+
+## Dashboard
+<img width="1000" height="800" alt="Dashboard 1" src="https://github.com/user-attachments/assets/6df014cc-6906-4e0e-9ebe-de81215b7289" />
